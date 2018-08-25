@@ -29,28 +29,7 @@ $summ = solve($thousand, $numRegex, $matches, $numbers, $summ, 1);
 		<meta charset="utf-8">
 		<title>Перевод из слов в числа</title>
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-		<style media="screen">
-			body {
-				margin-top: 10px;
-			}
-			h2 {
-				text-align: center;
-			}
-			.form {
-				width: 500px;
-				margin: 0 auto;
-			}
-			input {
-				width: 100%;
-				margin: 2px;
-			}
-			.number {
-				text-align: center;
-				font-size: 65px;
-				font-weight: bold;
-				font-family: 'Times New Roman' sans-serif;
-			}
-		</style>
+		<link rel="stylesheet" href="/css/style.css">
 	</head>
 	<body>
 		<div class="container">
